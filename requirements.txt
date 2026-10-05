@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -7,4 +8,15 @@ openpyxl
 matplotlib
 seaborn
 plotly
+=======
+pandas
+numpy
+scikit-learn
+streamlit
+joblib
+openpyxl
+matplotlib
+seaborn
+plotly
+>>>>>>> 8afd5bb9b6b34da83c8b12e0449e89dfd08e5145
 rpds-py
